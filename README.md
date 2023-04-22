@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**hrmse/hrmse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Hamidreza Mohammadi, a highly motivated and progress-focused DevOps Engineer with a long-standing background in this industry <br/>
+-Excellent English understanding <br/>
+-Ready to learn and adapt to new environments <br/>
+-Able to prioritize and execute tasks in a high-pressure environment <br/>
+-Strong knowledge of the Linux operating system (LPIC 1, 2) <br/>
+-Experienced with Scripting (Bash, Python) <br/>
+-Experienced with CI/CD systems (GitLab, Jenkins) <br/>
+-Experienced with Version Control Systems (GitLab, Git) <br/>
+-Experienced with Containerization Technologies (Docker, k8s) <br/>
+-Experienced with Orchestration Tools (Kubernetes, OpenShift) <br/>
+-Experienced with Configuration management frameworks (Ansible) <br/>
+-Experienced with Infrastructure-as-code tools (Terraform, Pulumi) <br/>
+-Experienced with Monitoring tools (Prometheus, Nagios)<br/>
