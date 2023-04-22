@@ -10,4 +10,4 @@ I am Hamidreza Mohammadi, a highly motivated and progress-focused DevOps Enginee
 -Experienced with Orchestration Tools (Kubernetes, OpenShift) <br/>
 -Experienced with Configuration management frameworks (Ansible) <br/>
 -Experienced with Infrastructure-as-code tools (Terraform, Pulumi) <br/>
--Experienced with Monitoring tools (Prometheus, Nagios)<br/>
+-Experienced with Monitoring tools (Prometheus, ELK)<br/>
